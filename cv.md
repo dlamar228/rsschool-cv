@@ -12,6 +12,7 @@
 [LinkedInSign]: https://github.com/dlamar228/rsschool-cv/blob/gh-pages/src/linkedin-sign.svg
 [CodeWarsSign]: https://github.com/dlamar228/rsschool-cv/blob/gh-pages/src/codewars-sign.svg
 
+[CodeWarsTask]: https://www.codewars.com/kata/55c04b4cc56a697bb0000048
 
 # DZMITRY KRYLOU #
 
@@ -29,6 +30,9 @@
 I've had practical experience in devуloping websites via **`JavaScript`** and **`Python`**. I'm currently having deal with **`SQL`**,**`Python`** for backend and **`Vue`**, **`JavaScript`** for frontend at a startup.I take part in this project as a Junior so I adjust json, create new tables and write queries, add new and revise old functional for backend regularly.
 
 # CODE EXAMPLE #
+
+**DESCRIPTION**: *Complete the function `scramble(str1, str2)` that returns true if a portion of `str1` characters can be rearranged to match `str2`, otherwise returns `false`.* 
+
 ```
 function scramble(str1, str2) {
   
@@ -53,14 +57,12 @@ function scramble(str1, str2) {
         result = false
         break
       }
-      
     }
     
     return result
   }
   
   let result = true
-  
   let frequency = getFrequency(Array.from(str2))
   
   for(let [letter,count] of frequency){
@@ -69,9 +71,8 @@ function scramble(str1, str2) {
       if(!result) break
 
   }
- 
-  return result
   
+  return result  
 }
 ```
 
