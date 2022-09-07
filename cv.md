@@ -6,12 +6,12 @@
 [LinkedIn]: https://www.linkedin.com/in/dzmitry-krylou/
 [CodeWars]: https://www.codewars.com/users/dlamar228
 
-[EmailSign]: https://github.com/dlamar228/rsschool-cv/blob/main/email-sign.svg
-[PhoneSign]: https://github.com/dlamar228/rsschool-cv/blob/main/phone-sign.svg
-[LocationSign]: https://github.com/dlamar228/rsschool-cv/blob/main/location-sign.svg
-[GitHubSign]: https://github.com/dlamar228/rsschool-cv/blob/main/github-sign.svg
-[LinkedInSign]: https://github.com/dlamar228/rsschool-cv/blob/main/linkedin-sign.svg
-[CodeWarsSign]: https://github.com/dlamar228/rsschool-cv/blob/main/codewars-sign.svg
+[EmailSign]: https://github.com/dlamar228/rsschool-cv/blob/gh-pages/src/email-sign.svg
+[PhoneSign]: https://github.com/dlamar228/rsschool-cv/blob/gh-pages/src/phone-sign.svg
+[LocationSign]: https://github.com/dlamar228/rsschool-cv/blob/gh-pages/src/location-sign.svg
+[GitHubSign]: https://github.com/dlamar228/rsschool-cv/blob/gh-pages/src/github-sign.svg
+[LinkedInSign]: https://github.com/dlamar228/rsschool-cv/blob/gh-pages/src/linkedin-sign.svg
+[CodeWarsSign]: https://github.com/dlamar228/rsschool-cv/blob/gh-pages/src/codewars-sign.svg
 
 
 # [rsschool-cv](GitCV) #
