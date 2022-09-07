@@ -12,3 +12,21 @@
 [GitHubSign]: https://github.com/dlamar228/battle-field/blob/main/github-sign.svg
 [LinkedInSign]: https://github.com/dlamar228/battle-field/blob/main/linkedin-sign.svg
 [CodeWarsSign]: https://github.com/dlamar228/battle-field/blob/main/codewars-sign.svg
+
+
+# [rsschool-cv](GitCV) #
+
+# DZMITRY KRYLOU #
+
+# CONTACT #
+
+# EXPERIENCE #
+
+# CODE EXAMPLE #
+
+# SKILLS #
+
+# EDUCATION #
+
+# LANGUAGES #
+
