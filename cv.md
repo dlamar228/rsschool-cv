@@ -1,29 +1,25 @@
-[Email]: mailto:dlamardima@gmail.com
-[Phone]: tel:+375257391102
-[Location]: https://www.google.com/maps/place/%D0%9C%D0%B8%D0%BD%D1%81%D0%BA/@53.8933405,27.5770606,12z/data=!4m5!3m4!1s0x46dbcfd35b1e6ad3:0xb61b853ddb570d9!8m2!3d53.9006011!4d27.558972
-[GitHub]: https://github.com/dlamar228
-[LinkedIn]: https://www.linkedin.com/in/dzmitry-krylou/
-[CodeWars]: https://www.codewars.com/users/dlamar228
+[Email]: mailto:dlamardima@gmail.com  
+[Location]: https://www.google.com/maps/place/%D0%9C%D0%B8%D0%BD%D1%81%D0%BA/@53.8933405,27.5770606,12z/data=!4m5!3m4!1s0x46dbcfd35b1e6ad3:0xb61b853ddb570d9!8m2!3d53.9006011!4d27.558972  
+[GitHub]: https://github.com/dlamar228  
+[LinkedIn]: https://www.linkedin.com/in/dzmitry-krylou/  
+[CodeWars]: https://www.codewars.com/users/dlamar228  
 
-[EmailSign]: https://github.com/dlamar228/rsschool-cv/blob/gh-pages/src/email-sign.svg
-[PhoneSign]: https://github.com/dlamar228/rsschool-cv/blob/gh-pages/src/phone-sign.svg
-[LocationSign]: https://github.com/dlamar228/rsschool-cv/blob/gh-pages/src/location-sign.svg
-[GitHubSign]: https://github.com/dlamar228/rsschool-cv/blob/gh-pages/src/github-sign.svg
-[LinkedInSign]: https://github.com/dlamar228/rsschool-cv/blob/gh-pages/src/linkedin-sign.svg
-[CodeWarsSign]: https://github.com/dlamar228/rsschool-cv/blob/gh-pages/src/codewars-sign.svg
-
-[CodeWarsTask]: https://www.codewars.com/kata/55c04b4cc56a697bb0000048
+[EmailSign]: src/email-sign.svg  
+[PhoneSign]: src/phone-sign.svg  
+[LocationSign]: src/location-sign.svg  
+[GitHubSign]: src/github-sign.svg  
+[LinkedInSign]: src/linkedin-sign.svg  
+[CodeWarsSign]: src/codewars-sign.svg  
 
 # DZMITRY KRYLOU #
 
 # CONTACT #
-
-![alt][EmailSign] [**dlamardima@gmail.com**](Email)  
-![alt][PhoneSign] [**+375 25 7391102**](Phone)  
-![alt][LocationSign] [**Minsk, RB**](Location)  
-![alt][GitHubSign] [**github.com**](GitHub)  
-![alt][LinkedInSign] [**linkedin.com**](LinkedIn)  
-![alt][CodeWarsSign] [**codewars.com**](CodeWars)  
+![alt][EmailSign] [**dlamardima@gmail.com**][Email]  
+![alt][PhoneSign] **+375 25 73 91 102**  
+![alt][LocationSign] [**Minsk, RB**][Location]  
+![alt][GitHubSign] [**github.com**][GitHub]  
+![alt][LinkedInSign] [**linkedin.com**][LinkedIn]  
+![alt][CodeWarsSign] [**codewars.com**][CodeWars]  
 
 # EXPERIENCE #
 
